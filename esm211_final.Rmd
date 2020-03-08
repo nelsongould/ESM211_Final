@@ -2,14 +2,16 @@
 title: "ESM Final"
 author: "Nelson Gould and Max Russer"
 date: "3/6/2020"
-output: pdf_document
+output:
+  html_document:
+    df_print: paged
 ---
 
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-```{r}
+```{r, include = FALSE}
 
 library(popbio)
 library(primer)
