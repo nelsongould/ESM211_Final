@@ -41,7 +41,7 @@ e18_25 = 0.17
 r1_17 = 0.33
 r18_25 = 0.31
 
-# values are estimated based on Figure 4. Values are not reported in results.
+# values are estimated based on Figure 4. Values are not reported in report results.
 
 c3_5 = 0
 c6_8 = 0.4
